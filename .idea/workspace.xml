@@ -13,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="442">
+              <caret line="26" column="143" selection-start-line="26" selection-start-column="143" selection-end-line="26" selection-end-column="143" />
             </state>
           </provider>
         </entry>
@@ -51,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1167" />
@@ -149,8 +149,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="442">
+          <caret line="26" column="143" selection-start-line="26" selection-start-column="143" selection-end-line="26" selection-end-column="143" />
         </state>
       </provider>
     </entry>
