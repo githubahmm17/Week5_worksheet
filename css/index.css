@@ -1,0 +1,13 @@
+.footer-bottom-left,
+.footer-bottom-right {
+	position: absolute;
+	margin: 0;
+	top: auto;
+	bottom: 0.24em;
+	}
+.footer-bottom-left{
+	left: 0.4em;
+}
+.footer-bottom-right{
+	right:0.4em;
+}
